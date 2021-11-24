@@ -1,1 +1,1 @@
-# SCHWAG-WINTER2021
+Gitcoin Grants Round 12 / Schwag design - Winter 2021
